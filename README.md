@@ -18,7 +18,12 @@ Consumers made the highest sales overall from 2014 to 2017.Home offices made the
 # RECOMENDATIONS
 The company should makes check why the drastic fall in sales in the year 2018 generally to avoid future occurences if possible.
 
-2. what are the total sales  in the different states ?
+2. what are the total sales  in the different states?
+![Total sales in different states](https://github.com/Narin0909/Analysis-of-US-Super-Store/assets/147630963/0318d05e-03e5-4955-b99d-91a1dc2cc4d4)
+Total sales in different states was computed by taking the sum of all by state in the column and arranging the result in ascending order using the more sort options the states filter drop down
+
+
+
 
 
 
