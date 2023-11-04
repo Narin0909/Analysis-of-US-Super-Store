@@ -6,7 +6,7 @@ To create a Pivot Table using the US superstore data sets always:
 Select the data range by pressing ctrl + A in the Excel sheet,go to the "insert" tab and click on "Pivot Table". Choose the range, and select where to place the Pivot table,either in a new sheet or an existing sheet and click "OK".
 Also to create a pivot chat from a pivot table, select the pivot table, go to "PivotTable Tools" tab, and click on "PivotChat".
 
-# Some key inquiries to addressed in this analysis are;
+# Some key inquiries addressed in this analysis were;
 
 1. What are the total sales by segment ?
 Total  sales by segment from 2014 to 2018 was calculated using the sum of sales by segment in the row . Also, the total sales was arranged in descending order using the more sort options in the segment filter drop down.
