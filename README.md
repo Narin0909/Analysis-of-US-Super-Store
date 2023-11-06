@@ -8,6 +8,7 @@ Also to create a pivot chat from a pivot table, select the pivot table, go to "P
 
 ### Some key inquiries addressed in this analysis were;
 
+###   What are the total sales by segment ?
  ![Total Sales by Segment](https://github.com/Narin0909/Analysis-of-US-Super-Store/assets/147630963/386bc0de-1e20-43d9-a429-7720dde70ce0)
 
 Total sales by segment from 2014 to 2018 was calculated using the sum of sales by segment in the row . Also, the total sales was arranged in descending order using the more sort options in the segment filter drop down.
@@ -18,7 +19,7 @@ Consumers made the highest sales overall from 2014 to 2017.Home offices made the
 #### RECOMENDATIONS
 In sales, the company should sale more of consumer products than the home office products.
 
-
+###  what are the total top 10 sales  in the different states ?
 ![Top 10 Sales by State](https://github.com/Narin0909/Analysis-of-US-Super-Store/assets/147630963/7d6bbfb5-b178-4a50-a830-e554ac056ecc)
 
 Total sales in different states was computed by taking the sum of all by state in the column and arranging the result in ascending order using the more sort options the states filter drop down. Top 10 total sales in different states was computed by taking the sum of all by state in the row and arranging the result in ascending order using the more sort options the states filter drop down.The value filters in the drop down was selected and top 10 was selected in order to display only the top ten sales by State for the analysis.
@@ -29,7 +30,7 @@ From the top 10 sales in different States, the highest sales was realised in Cal
 #### RECOMENDATION
 Since these top ten States sales more of the company's products, the company should always send more products to these states.
 
-
+###  What are the profit sales in different regions ?
  ![Profit Sales by Region](https://github.com/Narin0909/Analysis-of-US-Super-Store/assets/147630963/54f2d626-7b14-4ab3-b6f9-805980c2198c)
 
  The profit sales in different regions was determined by adding all the  profits with the regions on the rows  and regions on the column. The total sales profit was arranged in ascendinding order using the more sort options in the region filter drop down.
@@ -40,7 +41,7 @@ The region that sold the most was the West with $108,386 and the least region wa
 #### RECOMENDATION
 The company should sale more of their products in the Western region than other regions.
 
-
+###  What are the total sales in different category ?
 ![Total Sales by Category](https://github.com/Narin0909/Analysis-of-US-Super-Store/assets/147630963/3018be5e-779c-4483-a30b-96699c36215e)
 
 The total sales in different category  was computed using the sum for sales, and dragging  categories in the row, also the total sales in the different categories was organized in a descending order using the more sort options in the category filter drop down. 
@@ -51,7 +52,7 @@ The Technology ($836,221) category sold the most while the Office Supplies ($719
 #### RECOMENDATIONS
 Since the Technology category sales more other categories, the company should consider selling more of the Technology category of products.
 
-
+###  What are the total sales made yearly in the United Stated of America?
 ![Total yearly sales in USA](https://github.com/Narin0909/Analysis-of-US-Super-Store/assets/147630963/cb683a98-e1cc-4fba-9b4b-0d6b673c6240)
 
 The total yearly sales In the country was calculated by summing up the sales and dragging the year into column and country into row. The total sales was organized in a descending order as well using the year filter drop down sort more options.
@@ -62,7 +63,7 @@ The total yearly sales in the country peaked in the year 2017 ($730,958) and a d
 #### RECOMENDATIONS
 findings should be made by the company on the reason for the drastic fall in sales in the year 2018, the company should also adequately prepare for the future to avoid such occurences.
 
-
+###  What is the total top 10 sales profit by Products ?
 ![top 10 profit by product](https://github.com/Narin0909/Analysis-of-US-Super-Store/assets/147630963/64b9732e-88b5-4179-9474-fed69c699978)
 
 The profit of products was computed summing up the profit and dragging the  product name in the row. The total sales was arranged in descending order using the filter drop down sort more options in the products. The value filters in the drop down was selected and top 10 was selected in order to display only the top ten products for the analysis.
